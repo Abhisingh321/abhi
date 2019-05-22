@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Insert title here   updated code</title>
 </head>
 <body>
-	<h1>Hello </h1>
+	<h1>Hello from updateed jsp file </h1>
 </body>
 </html>
